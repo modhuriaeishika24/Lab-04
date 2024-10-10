@@ -12,3 +12,9 @@ color:black;
 .highlight{
     color:green;
 }
+.main-content{
+    background-color: yellow;
+}
+#id3{
+    text-align: center;
+}
