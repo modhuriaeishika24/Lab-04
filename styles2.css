@@ -21,3 +21,6 @@ color:black;
 a{
     text-decoration: none;
 }
+.heading{
+    text-decoration: dashed underline;
+}
