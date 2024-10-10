@@ -27,3 +27,6 @@ a{
 .bold-text{
     font-weight: bold;
 }
+#intro{
+    font-weight: 300;
+}
