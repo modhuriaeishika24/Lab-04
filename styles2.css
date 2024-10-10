@@ -38,3 +38,6 @@ a{
 .custom-font{
     font-family: 'Times New Roman', Times, serif;
 }
+.heading2{
+    text-transform: uppercase;
+}
