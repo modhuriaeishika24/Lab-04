@@ -1,10 +1,12 @@
 #id1{
     background-color: blue;
     color:white;
+
 }
 .container{
 background-color: lightgray;
 color:black;
+
 }
 #id2{
     color:red;
@@ -29,4 +31,7 @@ a{
 }
 #intro{
     font-weight: 300;
+}
+#id5{
+    font-family: Arial, Helvetica, sans-serif;
 }
