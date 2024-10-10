@@ -41,3 +41,6 @@ a{
 .heading2{
     text-transform: uppercase;
 }
+.capitalize-text{
+    text-transform: capitalize;
+}
